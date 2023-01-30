@@ -1,0 +1,47 @@
+{
+	"blogs":[
+		{
+			"superhero": "Batman", 
+			"company":"Detective Comics", 
+			"name":"Bruce Wayne", 
+			"id":1
+		},
+		{
+			"superhero": "superman",
+			"company":"Detective Comics",
+			"name":"clark kent", 
+			"id":2
+		},
+		{
+			"superhero": "Ironman",
+			"company":"marvel", 
+			"name":"tony stark",
+			"id":3
+		},
+		{
+			"superhero": "captain america", 
+			"company":"marvel", 
+			"name":"steve rogers", 
+			"id":4
+		},
+		{
+			"superhero": "Thor", 
+			"company":"marvel", 
+			"name":"thor odinson", 
+			"id":5
+		},
+		{
+			"superhero": "hulk", 
+			"company":"marvel", 
+			"name":"bruce", 
+			"id":6
+		},
+		{
+			"superhero": "Flash", 
+			"company":"Detective Comics", 
+			"name":"Barry", 
+			"id":7
+
+		}
+	]
+}
